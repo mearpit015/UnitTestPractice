@@ -19,7 +19,7 @@ namespace UnitTest
             Assert.AreEqual(25, result);
            
             // inside a test menue for Enterprise Edition(only for Enterprise Edition) there is a option 'Analyze Code Coverage for all' unit test case , Currently i,am using Community Edition VS2019.
-            // VS 2017 Comunity edition have Code coverage feature.
+            
         }
 
     }
