@@ -8,7 +8,7 @@ namespace UnitTest
     public class Calculation
     {
         [TestMethod]
-        public void Add()
+        public void Add() 
         {
             // Arrange  -- initialization of an object.
             Program program = new Program();
